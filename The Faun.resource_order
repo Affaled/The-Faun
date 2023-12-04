@@ -19,6 +19,7 @@
     {"name":"Sprites","order":2,"path":"folders/Player/Sprites.yy",},
     {"name":"Creatures","order":1,"path":"folders/Objects/Creatures.yy",},
     {"name":"Scripts","order":3,"path":"folders/Player/Scripts.yy",},
+    {"name":"Player State Machine","order":1,"path":"folders/Player/Scripts/Player State Machine.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_enemies_father","order":1,"path":"objects/obj_enemies_father/obj_enemies_father.yy",},

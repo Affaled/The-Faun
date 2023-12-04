@@ -30,6 +30,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Player/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Creatures","folderPath":"folders/Objects/Creatures.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Player/Scripts.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player State Machine","folderPath":"folders/Player/Scripts/Player State Machine.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -39,6 +40,7 @@
   },
   "resources": [
     {"id":{"name":"obj_creatures_father","path":"objects/obj_creatures_father/obj_creatures_father.yy",},},
+    {"id":{"name":"player_state_machine","path":"scripts/player_state_machine/player_state_machine.yy",},},
     {"id":{"name":"obj_enemies_father","path":"objects/obj_enemies_father/obj_enemies_father.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"map_player_controls","path":"scripts/map_player_controls/map_player_controls.yy",},},
