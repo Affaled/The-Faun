@@ -17,6 +17,9 @@
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Player","order":16,"path":"folders/Player.yy",},
     {"name":"Sprites","order":2,"path":"folders/Player/Sprites.yy",},
+    {"name":"Creatures","order":1,"path":"folders/Objects/Creatures.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"obj_enemies_father","order":1,"path":"objects/obj_enemies_father/obj_enemies_father.yy",},
+  ],
 }

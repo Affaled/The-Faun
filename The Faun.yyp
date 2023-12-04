@@ -28,6 +28,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player","folderPath":"folders/Player.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Player/Sprites.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Creatures","folderPath":"folders/Objects/Creatures.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -36,6 +37,8 @@
     "IDEVersion": "2023.8.2.108",
   },
   "resources": [
+    {"id":{"name":"obj_creatures_father","path":"objects/obj_creatures_father/obj_creatures_father.yy",},},
+    {"id":{"name":"obj_enemies_father","path":"objects/obj_enemies_father/obj_enemies_father.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"room_test","path":"rooms/room_test/room_test.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
