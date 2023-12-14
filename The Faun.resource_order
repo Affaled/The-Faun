@@ -17,13 +17,11 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
     {"name":"Creatures List","order":3,"path":"folders/Objects/Creatures/Creatures List.yy",},
-    {"name":"Player States","order":2,"path":"folders/Objects/Creatures/Creatures List/Player/Scripts/Player State Machine/Player States.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"switch_player_states","order":1,"path":"scripts/switch_player_states/switch_player_states.yy",},
     {"name":"obj_enemies_father","order":1,"path":"objects/obj_enemies_father/obj_enemies_father.yy",},
     {"name":"player_movement","order":1,"path":"scripts/player_movement/player_movement.yy",},
-    {"name":"player_state_walking","order":1,"path":"scripts/player_state_walking/player_state_walking.yy",},
     {"name":"obj_player","order":2,"path":"objects/obj_player/obj_player.yy",},
   ],
 }
