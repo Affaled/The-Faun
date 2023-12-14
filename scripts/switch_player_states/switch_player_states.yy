@@ -6,6 +6,6 @@
   "isDnD": false,
   "parent": {
     "name": "Player State Machine",
-    "path": "folders/Player/Scripts/Player State Machine.yy",
+    "path": "folders/Objects/Creatures/Creatures List/Player/Scripts/Player State Machine.yy",
   },
 }

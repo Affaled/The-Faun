@@ -1,2 +1,3 @@
 state = STATES.IDLE;
-move_speed = 0;
+potential_speed = 0;
+real_speed = 0;

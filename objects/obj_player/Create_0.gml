@@ -1,3 +1,3 @@
 event_inherited();
 
-move_speed = 5;
+potential_speed = 5;
