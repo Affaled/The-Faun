@@ -1,16 +1,11 @@
 function player_movement(){
-	#region Key Set Configs
-	if (key_player_up()) {
-		motion_add(0, running_speed);
-	}
-	if (key_player_right()) {
-		motion_add(270, running_speed) ;	
-	}
-	if (key_player_down) {
-		motion_add(90, running_speed) ;	
-	}
-	if (key_player_left) {
-		motion_add(180, running_speed) ;	
-	}
-	#endregion
+		var _h_input = - key_player_left() + key_player_right();
+		var _v_input = - key_player_up() + key_player_down();
+		
+		var _move_speed = point_distance(0, 0, _h_input, _v_input);
+		
+		if (_move_speed > 0) {
+			x += (_h_input / _move_speed) * obj_player.move_speed;
+			y += (_v_input / _move_speed) * obj_player.move_speed;
+		}
 }

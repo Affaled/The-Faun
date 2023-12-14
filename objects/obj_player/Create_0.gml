@@ -1,2 +1,3 @@
 event_inherited();
-running_speed = 5;
+
+move_speed = 5;

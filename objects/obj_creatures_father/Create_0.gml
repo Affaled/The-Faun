@@ -1,2 +1,2 @@
 state = STATES.IDLE;
-running_speed = 0;
+move_speed = 0;
