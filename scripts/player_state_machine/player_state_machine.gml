@@ -3,7 +3,6 @@ enum STATES {
 	WALKING,
 }
 
-
 function player_state_machine(){
 	switch (obj_player.state) {
 		case STATES.IDLE:
